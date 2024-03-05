@@ -1,2 +1,2 @@
 @Library('min-library') _
-ci()
++ci()
